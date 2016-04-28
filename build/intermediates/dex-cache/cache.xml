@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_1c845c9889b6d01a6b2c0fa44de3f97b0821ff39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_22da8a97f86be56e5468a04b77c9fb5759184638.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giogg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_53cde9b5b25f65ae982598aa38abc5daab9d392f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_52edbd37616cb8d14107ccdfeb1b78e8935acfc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_5f934985b89515888945427e7ce8cc5fe5233202.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_d1ee822e04301983e1efc54facab14836b3f4c35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_fe2afc509cdd42004d9d351bb5aa7ef7746a87b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_6f652a49ab4e24ca013cb74f69a933e9fba6fdbd.jar" />
+    </item>
+
+</items>
