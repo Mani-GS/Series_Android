@@ -2,60 +2,74 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_1c845c9889b6d01a6b2c0fa44de3f97b0821ff39.jar" />
-    </item>
-    <item
-        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_22da8a97f86be56e5468a04b77c9fb5759184638.jar" />
-    </item>
-    <item
-        jar="C:\Users\Giogg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_53cde9b5b25f65ae982598aa38abc5daab9d392f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_52edbd37616cb8d14107ccdfeb1b78e8935acfc2.jar" />
-    </item>
-    <item
-        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
-        jumboMode="false"
+        jar="/home/mani/git/Series_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
         sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_5f934985b89515888945427e7ce8cc5fe5233202.jar" />
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_fa58dd8d9534f83a583df44a078286d57df9a6dc.jar" />
     </item>
     <item
-        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_d1ee822e04301983e1efc54facab14836b3f4c35.jar" />
-    </item>
-    <item
-        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_fe2afc509cdd42004d9d351bb5aa7ef7746a87b3.jar" />
-    </item>
-    <item
-        jar="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
-        jumboMode="false"
+        jar="/home/mani/git/Series_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
         revision="23.0.2"
         sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="C:\Users\Giogg\AndroidStudioProjects\Series_Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_6f652a49ab4e24ca013cb74f69a933e9fba6fdbd.jar" />
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_ba87886eae8c269b12f552a9b3b73a907a7d7990.jar" />
+    </item>
+    <item
+        jar="/home/mani/git/Series_Android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_d4173ead9bb3159f69e788b97dc7af3a408154a4.jar" />
+    </item>
+    <item
+        jar="/home/mani/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_46c33f64cd8145fa445702806d2fcf9cd5bf067e.jar" />
+    </item>
+    <item
+        jar="/home/mani/git/Series_Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_1ff8888a937dc507d2a2fe6481476c7e3dcb83d5.jar" />
+    </item>
+    <item
+        jar="/home/mani/git/Series_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_a34bd05ade8127e1c743b789b9a0ac0ba76ec658.jar" />
+    </item>
+    <item
+        jar="/home/mani/git/Series_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_8b65915481a823006f0feabd3b535f0a661a51f3.jar" />
+    </item>
+    <item
+        jar="/home/mani/git/Series_Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d64b0ba1473c75c411d27beea4dc2ae44a0eae80">
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7d1a034fde3bd85d76e0946d0eedc2f5d06c4807.jar" />
+    </item>
+    <item
+        jar="/home/mani/git/Series_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_17d118ec3ae52ddaa74cb332cb10dd0210279158.jar" />
+    </item>
+    <item
+        jar="/home/mani/git/Series_Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a3d25d32487b45412593db55a66db457f600433e">
+        <dex dex="/home/mani/git/Series_Android/app/build/intermediates/pre-dexed/debug/instant-run_c3368ef56d2fcddb893106e24cbe9070b9dfc054.jar" />
     </item>
 
 </items>
